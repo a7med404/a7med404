@@ -54,32 +54,42 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ahmed_Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a7med404/)
 ## 
-<div align="center">
 
 ### :fire: My Stats :
+<div align="center">
+<table style="border="10";">
+<tr>
+<td>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=a7med404&theme=material&hide_border=true)](https://git.io/streak-stats)
+
+</td>
+<td>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7med404&show_icons=true&theme=radical)
 
+</td>
+</tr>
+ </table>
 </div>
 
----
+###
 
 <table border="0">
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=covid-19-tracker&show_owner=true)](https://github.com/a7med404/covid-19-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=covid-19-tracker&show_owner=false)](https://github.com/a7med404/covid-19-tracker)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=covid-19-tracker&show_owner=true)](https://github.com/a7med404/covid-19-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=smart-school&show_owner=false)](https://github.com/a7med404/smart-school)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=covid-19-tracker&show_owner=true)](https://github.com/a7med404/covid-19-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=ahgiz-24&show_owner=false)](https://github.com/a7med404/ahgiz-24)
 
 </td>
 </tr>
