@@ -57,7 +57,7 @@
 
 ### :fire: My Stats :
 <div align="center">
-<table style="border="10";">
+<table style="border="0px";">
 <tr>
 <td>
 
@@ -79,17 +79,23 @@
 <tr>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=covid-19-tracker&show_owner=false)](https://github.com/a7med404/covid-19-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=covid-19-tracker&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/a7med404/covid-19-tracker)&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=aqur&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/a7med404/aqur)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=smart-school&show_owner=false)](https://github.com/a7med404/smart-school)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=smart-school&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/a7med404/smart-school)&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=cars&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/a7med404/cars)
 
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=ahgiz-24&show_owner=false)](https://github.com/a7med404/ahgiz-24)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=ahgiz-24&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/a7med404/ahgiz-24)&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a7med404&repo=atlantis&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/a7med404/atlantis)
 
 </td>
 </tr>
